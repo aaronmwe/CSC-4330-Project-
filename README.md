@@ -1,4 +1,4 @@
-# testing
+## CSC 4330 Project
 
 A new Flutter project.
 
